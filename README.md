@@ -21,3 +21,4 @@ Application link & future scope:
 You can access the app : [YOUR APP LINK HERE](either Github link or Google Play store link of published app or .apk file).
 
 Once the app is fully functional we can add more features like directly observing the activity of users from authorities' end and if the user is violating the rules they should automatically get warnings and alerts. Stopping the tracking of app should be inaccessible by users this feature is also to be implemented.
+![WhatsApp Image 2022-01-07 at 14 50 17](https://user-images.githubusercontent.com/74093122/148554643-e8895d8e-5fd6-40a9-8ae6-4204a1f2ca51.jpeg)
