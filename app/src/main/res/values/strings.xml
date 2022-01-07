@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Trace</string>
+    <string name="google_maps_key">AIzaSyBn6AhDuSYWmi1Ua3EiPvx9Sxz-IOYEr5Q</string>
+
+    <string-array name="runOptions">
+        <item>Date</item>
+        <item>Travel Time</item>
+        <item>Distance</item>
+    </string-array>
+</resources>
