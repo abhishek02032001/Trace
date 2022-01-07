@@ -15,10 +15,15 @@ This project is usually a tracking system. It can be used to track the people's 
 FUNCTIONALITIES & CONCEPTS Used :
 
 Mvvm architecture: MVVM architecture is used in development of this application. MVVM architecture is a Model-View-ViewModel architecture that removes the tight coupling between each component.
+
 Constraint layout: Most of the activities in the app uses a flexible constraint layout, which is easy to handle for different screen sizes.
+
 Navigation graph: We have used Navigation graph to navigate between the fragments. A navigation graph is a resource file that contains all of your app's destinations along with the logical connections, or actions, that users can take to navigate from one destination to another.
+
 Recycler view: We have used Recycler view to show the list of activities in the stats page. 
+
 Room database: We have used room db to store the data.
+
 Basics of dragger hilt: we have also used dragger hilt for dependency injection
 
 Application link & future scope:
