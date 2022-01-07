@@ -7,7 +7,7 @@ In this time of pandemic, the biggest problem our country is facing is preventin
 PROPOSED SOLUTON:
 
 This project is usually a tracking system. It can be used to track the people's activity who are under quarantine period. It can also be used for travellers from other countries to keep their track like where they visited during the tour.If we have this data we can easily know who violated the quarantine period and also can track the places where the tourists have visited.This application uses gps tracking and once it's started an automatic line is drawn in the places on the map screen, which shows the routes where the person travelled along with phone. There is a statistics page which shows the statistics of the travel like distance, speed, time, etc. With this solution authorities can easily track concerned people and prevent spreading of covid-19 to some extent.This solution requires people to be coperative so that government can trace their travel with which tracing can be made easier and effective.
-![trace1(0)]<img src="https://user-images.githubusercontent.com/74093122/148576058-3f7f6ed1-5c6a-493c-bde8-f9daf8dad56d.jpeg" width="100" height="100">
+![trace1(0)]<img src="https://user-images.githubusercontent.com/74093122/148576058-3f7f6ed1-5c6a-493c-bde8-f9daf8dad56d.jpeg" width="100" height="300">
 ![trace1 (1)](https://user-images.githubusercontent.com/74093122/148576132-e60ca68f-5a37-4ebd-a8b0-6bb65c286a21.jpeg)
 ![trace1 (2)](https://user-images.githubusercontent.com/74093122/148576150-4480d3e9-41c6-4fc0-8257-4357c8234a37.jpeg)
 ![trace1 (3)](https://user-images.githubusercontent.com/74093122/148576163-1ea351b8-7b6a-4816-9e11-b40928c179a0.jpeg)
