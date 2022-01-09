@@ -1,4 +1,4 @@
-Trace - A Covid Trcaer App
+Trace - A Covid Tracer App
 
 PROBLEM STATEMENT:
 
